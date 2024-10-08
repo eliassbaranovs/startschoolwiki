@@ -1,43 +1,12 @@
 ---
-sidebar_label: 'My Css Is Easy II'
+sidebar_label: 'My CSS Is Easy II'
 sidebar_position: 4
 ---
 
-# Hello
-
-```jsx title="src/components/HelloDocusaurus.js"
-function HelloDocusaurus() {
-  // highlight-start
-  return <h1>Hello, Docusaurus!</h1>;
-  // highlight-end
-}
-```
-
-:::note
-
-Some **content** with _Markdown_ `syntax`.
-
-:::
-
-:::tip
-
-Some **content** with _Markdown_ `syntax`.
-
-:::
+# My CSS Is Easy II
 
 :::info
 
-Some **content** with _Markdown_ `syntax`.
+Please note that **DoCode** does not support **Tailwind CSS**. Running Gandalf tests will result in errors. However, you can still submit your code with Tailwind CSS, as the final evaluation will be based on peer review.
 
-:::
-
-:::warning
-
-Some **content** with _Markdown_ `syntax`.
-
-:::
-
-:::danger
-
-Some **content** with _Markdown_ `syntax`.
 :::
